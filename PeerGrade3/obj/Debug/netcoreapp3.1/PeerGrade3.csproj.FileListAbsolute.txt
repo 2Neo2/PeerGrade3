@@ -1,0 +1,12 @@
+/Users/ivandoronin/RiderProjects/PeerGrade3/PeerGrade3/bin/Debug/netcoreapp3.1/PeerGrade3.deps.json
+/Users/ivandoronin/RiderProjects/PeerGrade3/PeerGrade3/bin/Debug/netcoreapp3.1/PeerGrade3.runtimeconfig.json
+/Users/ivandoronin/RiderProjects/PeerGrade3/PeerGrade3/bin/Debug/netcoreapp3.1/PeerGrade3.runtimeconfig.dev.json
+/Users/ivandoronin/RiderProjects/PeerGrade3/PeerGrade3/bin/Debug/netcoreapp3.1/PeerGrade3.dll
+/Users/ivandoronin/RiderProjects/PeerGrade3/PeerGrade3/bin/Debug/netcoreapp3.1/PeerGrade3.pdb
+/Users/ivandoronin/RiderProjects/PeerGrade3/PeerGrade3/obj/Debug/netcoreapp3.1/PeerGrade3.csprojAssemblyReference.cache
+/Users/ivandoronin/RiderProjects/PeerGrade3/PeerGrade3/obj/Debug/netcoreapp3.1/PeerGrade3.AssemblyInfoInputs.cache
+/Users/ivandoronin/RiderProjects/PeerGrade3/PeerGrade3/obj/Debug/netcoreapp3.1/PeerGrade3.AssemblyInfo.cs
+/Users/ivandoronin/RiderProjects/PeerGrade3/PeerGrade3/obj/Debug/netcoreapp3.1/PeerGrade3.csproj.CoreCompileInputs.cache
+/Users/ivandoronin/RiderProjects/PeerGrade3/PeerGrade3/obj/Debug/netcoreapp3.1/PeerGrade3.dll
+/Users/ivandoronin/RiderProjects/PeerGrade3/PeerGrade3/obj/Debug/netcoreapp3.1/PeerGrade3.pdb
+/Users/ivandoronin/RiderProjects/PeerGrade3/PeerGrade3/obj/Debug/netcoreapp3.1/PeerGrade3.genruntimeconfig.cache
